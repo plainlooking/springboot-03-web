@@ -9,5 +9,9 @@ class Springboot03WebApplicationTests {
     @Test
     void contextLoads() {
     }
+    @Test
+    void coFin(){
+
+    }
 
 }
